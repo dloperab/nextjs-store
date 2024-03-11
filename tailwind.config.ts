@@ -15,6 +15,9 @@ const config: Config = {
         secondary: 'var(--color-secondary)',
         text: 'var(--text-color)',
       },
+      backgroundImage: {
+        'gradient-header': 'linear-gradient(270deg, #4f56ff, #ff4980)',
+      },
     },
   },
   plugins: [],
